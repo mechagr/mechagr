@@ -11,10 +11,10 @@ I work across creative and technical areas, with experience in C#, QA testing, n
 ## Currently Working On
 
 - Science-fiction roguelike game development (C#)
-- Retro game development for the ZX Spectrum (Sinclair BASIC)
+- Retro game development for the ZX Spectrum (Sinclair BASIC) and MS-DOS (C++)
 
 
 ## Skills
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, SQL
 - **Tools & Practices:** Git, GitHub, JSON, REST APIs
-- **Retro Game Development:** Sinclair BASIC
+- **Retro Game Development:** Sinclair BASIC, C++
