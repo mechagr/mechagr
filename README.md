@@ -1,6 +1,6 @@
 # Grace Evans
 
-I work across creative and technical areas, with experience in C#, QA testing, narrative design, and content creation. I enjoy contributing to interactive projects, exploring game mechanics, and developing practical tools to support organisation and workflow. I am currently working on both modern and retro game development, focusing on C# and small-scale gameplay prototypes, and I am seeking opportunities in the video game industry where I can apply and further develop my combined creative and technical skills.
+Adaptable and detail-driven individual with experience spanning game development, narrative design, QA testing, and content creation. Skilled in C#/.NET development, character-driven writing, game testing, and marketing content production. Actively developing games and applications whilst contributing to indie game projects. Seeking opportunities in game development, writing and narrative design, marketing and content creation, or QA within the games industry.
 
 ## Featured Projects
 
