@@ -4,18 +4,6 @@ Adaptable and detail-driven individual with experience spanning game development
 
 [Narrative Design Portfolio](https://drive.google.com/drive/folders/1s0cbbaMPYTkqBD1itx5GZxhatVKpM_dE?usp=sharing)
 
-## Featured Projects
-
-- [ZXManager](https://github.com/mechagr/zx-manager) - ZX Spectrum game collection management web application
-- [VinylManager](https://github.com/mechagr/vinyl-manager) - vinyl record collection management web application
-
-
-## Currently Working On
-
-- Science-fiction roguelike game development (C#)
-- Retro game development for the ZX Spectrum (Sinclair BASIC) and MS-DOS (C++)
-
-
 ## Skills
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, SQL
 - **Tools & Practices:** Git, GitHub, JSON, REST APIs
