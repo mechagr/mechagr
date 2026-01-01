@@ -5,5 +5,6 @@ Adaptable and detail-driven individual with experience spanning game development
 [Narrative Design Portfolio](https://drive.google.com/drive/folders/1s0cbbaMPYTkqBD1itx5GZxhatVKpM_dE?usp=sharing)
 
 - **Languages & Frameworks:** C#, .NET, ASP.NET Core, SQL
+- **Modern Game Development:** Unity (C#)
 - **Retro Game Development:** Sinclair BASIC, C++
 - **Tools & Practices:** Git, GitHub, JSON, REST APIs
